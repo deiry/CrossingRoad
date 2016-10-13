@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: e57d665ea2d2f1d469562a3a24a610bf
+timeCreated: 1476281615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: paisaje_0
+    21300002: paisaje_1
+    21300004: paisaje_2
+    21300006: paisaje_3
+    21300008: paisaje_4
+    21300010: paisaje_5
+    21300012: paisaje_6
+    21300014: paisaje_7
+    21300016: paisaje_8
+    21300018: paisaje_9
+    21300020: paisaje_10
+    21300022: paisaje_11
+    21300024: paisaje_12
+    21300026: paisaje_13
+    21300028: paisaje_14
+    21300030: paisaje_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: paisaje_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 314.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 314.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 314.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 210.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 210.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 210.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 106.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 106.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    - name: paisaje_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2.25
+        width: 87.5
+        height: 104.75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 0.375}
+        - {x: -0.25, y: -104.625}
+        - {x: 87.75, y: -104.625}
+        - {x: 87.75, y: 0.375}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
